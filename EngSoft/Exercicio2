@@ -1,0 +1,10 @@
+2)de 3 exemplos de trade-offs
+
+1.Desempenho vs. Segurança
+  Um aplicativo web precisa processar grandes volumes de dados rapidamente. Implementar criptografia forte para proteger dados sensíveis pode aumentar o tempo de resposta. Se a segurança for priorizada, o desempenho pode ser comprometido, resultando em tempos de carregamento mais lentos.
+  
+2. Usabilidade vs. Funcionalidade
+   Um software de gestão oferece muitas opções e configurações para atender diferentes usuários. Adicionar mais funcionalidades pode tornar a interface mais complexa e difícil de usar. Se a funcionalidade for priorizada, a usabilidade pode sofrer, dificultando a adoção por parte dos usuários.
+    
+3. Escalabilidade vs. Custo
+   Uma aplicação em nuvem deve suportar um crescimento rápido de usuários.  Projetar a arquitetura para ser altamente escalável pode exigir uma infraestrutura mais cara e complexa. Se a escalabilidade for priorizada, os custos operacionais e de desenvolvimento podem aumentar significativamente, impactando o orçamento.
